@@ -14,7 +14,7 @@ document.addEventListener("DOMContentLoaded", () => {
   // FIX utama: pastikan popup tidak muncul otomatis
   giftPopup.classList.add("hidden");
 
-  const message = "Hay bybyku yang cantik, hari ini adalah hari yang spesial buat aku, hari di mana dunia menjadi lebih indah karena kehadiranmu. Selamat ulang tahun, cintaku 💙 Semoga apa yang kamu harapkan di masa depan semuanya bisa tercapai yah, mulai dari kuliahnya, mondoknya, jodohnya——semoga itu aku——xixixi. Aku juga bakal mendampingi byby di semua proses yang byby jalani, semangat buat semuanya sayang, doaku selalu menyertaimu byby. I Love you so much 💙";
+  const message = "Hay bybyku yang cantik, hari ini adalah hari yang spesial buat aku, hari di mana dunia menjadi lebih indah karena kehadiranmu. Selamat ulang tahun, cintaku 💙 Semoga apa yang kamu harapkan di masa depan semuanya bisa tercapai yah, mulai dari kuliahnya, mondoknya, jodohnya—semoga itu aku—xixixi. Aku juga bakal mendampingi byby di semua proses yang byby jalani, semangat buat semuanya sayang, doaku selalu menyertaimu byby. I Love you so much 💙";
 
   startBtn.addEventListener("click", () => {
     intro.classList.add("hidden");
